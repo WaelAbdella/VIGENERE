@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1552949482 source:c:\users\hp\desktop\251 labs\exam prep\361 assignment 1, try 1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<math.h>
+	<cstdlib>
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	<cstdlib>
+
